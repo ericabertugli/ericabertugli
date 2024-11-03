@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Erica, Data Engineer, currently living in Barcelona, Spain.
+I'm Erica, Scala Developer and Data Engineer, currently living in Barcelona, Spain.
 
 [LinkedIn](https://www.linkedin.com/in/erica-bertugli-38482258/)
 
